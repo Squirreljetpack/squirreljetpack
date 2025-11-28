@@ -1,16 +1,14 @@
-## Hi there 👋
+##  Hi
 
-<!--
-**Squirreljetpack/squirreljetpack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Repositories
+1. [fzs](https://github.com/Squirreljetpack/fzs)
+2. [ifengine](https://github.com/Squirreljetpack/ifengine)
+3. [matchmaker](https://github.com/Squirreljetpack/matchmaker)
+4. [aoc_template](https://github.com/Squirreljetpack/aoc_template)
+5. [cargo-exec](https://github.com/Squirreljetpack/cargo-exec)
+6. [zcomet](https://github.com/Squirreljetpack/zcomet)
+7. [vmscript](https://github.com/Squirreljetpack/vmscript)
+8. [gummy-PKG](https://github.com/Squirreljetpack/gummy-PKG)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
