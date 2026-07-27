@@ -13,7 +13,7 @@ Some productivity, dev and system tools:
 10. [slate-rs](https://github.com/Squirreljetpack/slate-rs)
 
 ## Obsidian
-1. [obsidian-cursor-history](https://github.com/Squirreljetpack/obsidian-remember-cursor-history)
+1. [obsidian-cursor-history](https://github.com/Squirreljetpack/obsidian-cursor-history)
 2. [obsidian-navigation](https://github.com/Squirreljetpack/obsidian-navigation)
 3. [obsidian-show-stuffs](https://github.com/Squirreljetpack/obsidian-show-stuffs)
 
