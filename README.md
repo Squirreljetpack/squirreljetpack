@@ -21,7 +21,7 @@ Some productivity, dev and system tools:
 ## Pi
 1. [pi-plan-mode](https://github.com/Squirreljetpack/pi-plan-mode)
 2. [pi-copy-clear](https://github.com/Squirreljetpack/pi-copy-clear)
-3. [pi-ui-tweaks](https://github.com/Squirreljetpack/pi-ui-tweaks)
+3. [pi-ui-show-stuffs](https://github.com/Squirreljetpack/pi-show-stuffs)
 
 ## Misc
 1. [aoc_template](https://github.com/Squirreljetpack/aoc_template)
