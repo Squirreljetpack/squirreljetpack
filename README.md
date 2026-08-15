@@ -3,14 +3,15 @@ Some productivity, dev and system tools:
 ## Projects
 1. [commandspace](https://github.com/Squirreljetpack/commandspace)
 2. [fzs](https://github.com/Squirreljetpack/fzs)
-3. [ifengine](https://github.com/Squirreljetpack/ifengine)
-4. [fist](https://github.com/Squirreljetpack/fist)
-5. [matchmaker](https://github.com/Squirreljetpack/matchmaker)
-6. [zsh-dl](https://github.com/Squirreljetpack/zsh-dl)
-7. [cargo-exec](https://github.com/Squirreljetpack/cargo-exec)
-8. [zcomet](https://github.com/Squirreljetpack/zcomet)
-9. [vmscript](https://github.com/Squirreljetpack/vmscript)
-10. [slate-rs](https://github.com/Squirreljetpack/slate-rs)
+3. [im](https://github.com/Squirreljetpack/im)
+4. [ifengine](https://github.com/Squirreljetpack/ifengine)
+5. [fist](https://github.com/Squirreljetpack/fist)
+6. [matchmaker](https://github.com/Squirreljetpack/matchmaker)
+7. [zsh-dl](https://github.com/Squirreljetpack/zsh-dl)
+8. [cargo-exec](https://github.com/Squirreljetpack/cargo-exec)
+9. [zcomet](https://github.com/Squirreljetpack/zcomet)
+10. [vmscript](https://github.com/Squirreljetpack/vmscript)
+11. [slate-rs](https://github.com/Squirreljetpack/slate-rs)
 
 ## Obsidian
 1. [obsidian-cursor-history](https://github.com/Squirreljetpack/obsidian-cursor-history)
