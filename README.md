@@ -26,4 +26,4 @@ Some productivity, dev and system tools:
 ## Misc
 1. [aoc_template](https://github.com/Squirreljetpack/aoc_template)
 2. [gummy-PKG](https://github.com/Squirreljetpack/gummy-PKG)
-3. [corner-workspace-squirreljetpack](https://Squirreljetpack/corner-workspace-squirreljetpack)
+3. [corner-workspace-squirreljetpack](https://github.com/Squirreljetpack/corner-workspace-squirreljetpack)
