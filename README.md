@@ -22,6 +22,7 @@ Some productivity, dev and system tools:
 1. [pi-plan-mode](https://github.com/Squirreljetpack/pi-plan-mode)
 2. [pi-copy-clear](https://github.com/Squirreljetpack/pi-copy-clear)
 3. [pi-show-stuffs](https://github.com/Squirreljetpack/pi-show-stuffs)
+4. [pi-wayfinder](https://github.com/Squirreljetpack/pi-wayfinder)
 
 ## Misc
 1. [aoc_template](https://github.com/Squirreljetpack/aoc_template)
