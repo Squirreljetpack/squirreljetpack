@@ -11,7 +11,6 @@ Some productivity, dev and system tools:
 8. [cargo-exec](https://github.com/Squirreljetpack/cargo-exec)
 9. [zcomet](https://github.com/Squirreljetpack/zcomet)
 10. [vmscript](https://github.com/Squirreljetpack/vmscript)
-11. [slate-rs](https://github.com/Squirreljetpack/slate-rs)
 
 ## Obsidian
 1. [obsidian-cursor-history](https://github.com/Squirreljetpack/obsidian-cursor-history)
